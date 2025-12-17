@@ -9,7 +9,7 @@ Trust is modelled as a **behavioural, data-driven outcome**, derived from real u
 
 The project follows an **end-to-end, reproducible pipeline** covering data preprocessing, feature engineering, supervised learning, model evaluation, and explainable AI analysis.
 
----
+--- 
 
 ## Research Objective
 The primary goals of this project are to:
